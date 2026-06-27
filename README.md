@@ -4,15 +4,15 @@ Axis is a life management & companion app that makes it easy to control everythi
 
 
 ## Features:
-- Todo List
+- 📃 Todo List
 - ⚖ Weight Monitor
   - 📊 Weekly Weight Chart
 
 
 ## Upcoming Features:
-- Day Planner
-- Financial Monitor
-- Calories Monitor
+- 📅 Day Planner
+- 🧮 Financial Monitor
+- 🔥 Calories Monitor
 - ⚖ Weight Monitor
   - 📊 Monthly Weight Chart
-- Period Tracker
+- 💧 Period Tracker
