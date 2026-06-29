@@ -7,6 +7,7 @@ Axis is a life management & companion app that makes it easy to control everythi
 - 📃 Todo List
 - ⚖ Weight Monitor
   - 📊 Weekly Weight Chart
+- 🎨 Custom Themes
 
 
 ## Upcoming Features:
