@@ -4,13 +4,11 @@ Axis is a life management & companion app that makes it easy to control everythi
 
 -----
 
-## Download: [Axis - Latest](https://github.com/xYuri/Axis-App/releases/latest)
-## Latest Release Notes: [v0.1.0](https://github.com/xYuri/Axis-App/blob/main/ReleaseNotes/v0.1.0.md)
-
+### Download: [Axis - Latest](https://github.com/xYuri/Axis-App/releases/latest)
+### Latest Release Notes: [v0.1.0](https://github.com/xYuri/Axis-App/blob/main/ReleaseNotes/v0.1.0.md)
 
 
 -----
-
 
 
 ## Features:
@@ -20,9 +18,7 @@ Axis is a life management & companion app that makes it easy to control everythi
 - 🎨 Custom Themes
 
 
-
 -----
-
 
 
 ## Upcoming Features:
