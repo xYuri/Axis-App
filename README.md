@@ -3,7 +3,7 @@
 
 Manage your daily tasks, track your health, and monitor your finances — all from a single, beautifully designed app.
 
-Axis brings together Todos, Tasks, Health tracking, and Personalization tools, making it effortless to stay organized and in control.
+**Axis** brings together **Todos** & **Tasks**, **Health** tracking, **Financial** tracking, and **Personalization** tools, making it effortless to keep **Track** of everything, stay **Organized**, and in **Control**.
 
 
 
