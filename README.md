@@ -3,7 +3,7 @@
 Axis is a life management & companion app that makes it easy to control everything in the daily life, from simple Todo list, to finance and health monitors, all in one place.
 
 ## Latest Release Notes
-https://github.com/xYuri/Axis-App/blob/main/ReleaseNotes/v0.1.0.md
+[v0.1.0]([url](https://github.com/xYuri/Axis-App/blob/main/ReleaseNotes/v0.1.0.md))
 
 
 ## Features:
