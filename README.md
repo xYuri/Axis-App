@@ -6,18 +6,32 @@ Axis is a life management & companion app that makes it easy to control everythi
 ## Latest Release Notes: [v0.1.0](https://github.com/xYuri/Axis-App/blob/main/ReleaseNotes/v0.1.0.md)
 
 
+
 ## Features:
 - 📃 Todo List
 - ⚖ Weight Monitor
-  - 📊 Weekly Weight Chart
+  - 📈 Weekly Weight Chart
 - 🎨 Custom Themes
+
+-----
 
 
 ## Upcoming Features:
-- 📅 Day Planner
+- 📅 Planner & Tasks Scheduler
+  - Day Planner
+  - Week Planner
+  - Month Planner
 - 🧮 Financial Monitor
+  - Spendings Tracker
+  - Income Tracker
+  - Bills/Debt Tracker
+  - Financial Insights
 - 🔥 Calories Monitor
+  - Calories Intake
+  - Calories Burnt
+  - Target Calories
+  - Calories Consumption Insights
 - ⚖ Weight Monitor
-  - 📊 Monthly Weight Chart
+  - 📈 Monthly Weight Chart
 - 💧 Period Tracker
-- Online backup
+- ☁️ Online backup
