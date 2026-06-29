@@ -1,14 +1,23 @@
-# Axis-App
+# Axis App
+*Your all-in-one life companion.*
 
-Axis is a life management & companion app that makes it easy to control everything in the daily life, from simple Todo list, to finance and health monitors, all in one place.
+Manage your daily tasks, track your health, and monitor your finances — all from a single, beautifully designed app.
+
+Axis brings together Todos, Tasks, Health tracking, and Personalization tools, making it effortless to stay organized and in control.
+
+
 
 -----
+
+
 
 ### Download: [Axis - Latest](https://github.com/xYuri/Axis-App/releases/latest)
 ### Latest Release Notes: [v0.1.0](https://github.com/xYuri/Axis-App/blob/main/ReleaseNotes/v0.1.0.md)
 
 
+
 -----
+
 
 
 ## Features:
@@ -17,9 +26,7 @@ Axis is a life management & companion app that makes it easy to control everythi
   - 📈 Weekly Weight Chart
 - 🎨 Custom Themes
 
-
 -----
-
 
 ## Upcoming Features:
 - 📅 Planner & Tasks Scheduler
