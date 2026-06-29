@@ -11,15 +11,6 @@ Manage your daily tasks, track your health, and monitor your finances — all fr
 
 
 
-### Download: [Axis - Latest](https://github.com/xYuri/Axis-App/releases/latest)
-### Latest Release Notes: [v0.1.0](https://github.com/xYuri/Axis-App/blob/main/ReleaseNotes/v0.1.0.md)
-
-
-
------
-
-
-
 ## Features:
 - 📃 Todo List
 - ⚖ Weight Monitor
@@ -47,3 +38,14 @@ Manage your daily tasks, track your health, and monitor your finances — all fr
   - 📈 Monthly Weight Chart
 - 💧 Period Tracker
 - ☁️ Online backup
+
+
+
+-----
+
+
+
+### Download: [Axis - Latest](https://github.com/xYuri/Axis-App/releases/latest)
+### Latest Release Notes: [v0.1.0](https://github.com/xYuri/Axis-App/blob/main/ReleaseNotes/v0.1.0.md)
+
+
