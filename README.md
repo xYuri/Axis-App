@@ -1,9 +1,23 @@
 # Axis App
-*Your all-in-one life companion.*
+*Your **all-in-one** life companion.*
 
 Manage your daily tasks, track your health, and monitor your finances — all from a single, beautifully designed app.
 
 **Axis** brings together **Todos** & **Tasks**, **Health** tracking, **Financial** tracking, and **Personalization** tools, making it effortless to keep **Track** of everything, stay **Organized**, and in **Control**.
+
+*<ins>**Axis**</ins> – Everything you need, all in one place.*
+
+-----
+
+
+
+## Platforms:
+
+**Axis** is a multi-platform app, and is availble on all platforms;
+
+- Web: (Desktop & Mobile)
+- Mobile: Android, iOS (Web)
+- Desktop: (Windows & Linux & MAC)
 
 
 
@@ -24,7 +38,8 @@ Manage your daily tasks, track your health, and monitor your finances — all fr
   - Day Planner
   - Week Planner
   - Month Planner
-- 🧮 Financial Monitor
+- 🏃🏻‍♂️‍➡️ Activity Tracker
+- 💲 Financial Monitor
   - Spendings Tracker
   - Income Tracker
   - Bills/Debt Tracker
